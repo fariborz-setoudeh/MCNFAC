@@ -80,4 +80,7 @@ Users of the Lake Michigan data should also cite the original BCO-DMO dataset an
 ## Contact
 
 **Corresponding author:** Wan-Lun Wang  
-**Repository maintainer:** F. Setoudehtazangi ([fariborz.setoudehtazangi@studenti.unipd.it](mailto:fariborz.setoudehtazangi@studenti.unipd.it))
+**Email:** [wangwl@gs.ncku.edu.tw](mailto:wangwl@gs.ncku.edu.tw)
+
+**Repository maintainer:** F. Setoudehtazangi  
+**Email:** [fariborz.setoudehtazangi@studenti.unipd.it](mailto:fariborz.setoudehtazangi@studenti.unipd.it)
